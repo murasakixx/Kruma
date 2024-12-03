@@ -7,7 +7,7 @@ const Contact = () => {
       <div className="relative bg-orange-100 dark:bg-gray-800 rounded-3xl overflow-hidden">
         <div className="flex justify-between items-center p-12">
           <div className="space-y-6 max-w-2xl">
-            <h1 className="text-6xl font-bold text-gray-800 dark:text-white">
+            <h1 className="text-4xl font-bold text-gray-800 dark:text-white">
               Contact Us
             </h1>
             <p className="text-xl text-gray-600 dark:text-gray-300 leading-relaxed">
@@ -44,7 +44,7 @@ const Contact = () => {
         </div>
         <div className="bg-white dark:bg-gray-700 p-6 rounded-xl shadow-md">
           <h2 className="text-xl font-bold mb-4 text-orange-600 dark:text-white">Phone</h2>
-          <p className="text-gray-600 dark:text-gray-300">063-xxx-xxxx</p>
+          <p className="text-gray-600 dark:text-gray-300">063-891-9598</p>
         </div>
         <div className="bg-white dark:bg-gray-700 p-6 rounded-xl shadow-md">
           <h2 className="text-xl font-bold mb-4 text-orange-600 dark:text-white">Office</h2>

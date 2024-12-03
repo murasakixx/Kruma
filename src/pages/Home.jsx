@@ -94,7 +94,7 @@ const Home = () => {
           </div>
           <div className="md:w-1/2">
             <img 
-              src="../public/strong-kurama.png" 
+              src="/images/strong-kurama.png" 
               alt=""
               className="w-full h-auto rounded-lg transform hover:scale-105 transition-transform duration-300"
             />

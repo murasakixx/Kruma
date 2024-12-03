@@ -25,8 +25,8 @@ const About = () => {
           <h2 className="text-2xl font-semibold text-gray-700 dark:text-gray-200 mb-4">Contact Information</h2>
           <div className="space-y-2 text-gray-600 dark:text-gray-300">
             <p>Email: murasakix.busiess@gmail.com</p>
-            <p>Phone: 063-xxx-xxxx</p>
-            <p>Address: 123 Main Street, City, Country</p>
+            <p>Phone: 063-891-9598</p>
+            <p>Address: lampang, thailand</p>
           </div>
         </div>
       </div>

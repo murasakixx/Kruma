@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.navbar-menu {
+  @apply hover:border-b hover:border-b-black dark:hover:border-b-white duration-300 dark:text-white;
+}
+
+/* Add dark mode transitions */
+.dark {
+  color-scheme: dark;
+}
+
+[class*='bg-'] {
+  @apply transition-colors duration-200;
+}

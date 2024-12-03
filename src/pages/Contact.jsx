@@ -26,7 +26,7 @@ const Contact = () => {
           <div className="hidden lg:block">
             {/* Add your hero image here */}
             <img 
-              src="src/assets/images/kurama.png" 
+              src="public/images/kurama.png" 
               alt="Contact illustration" 
               className="w-96 h-96 object-cover object-top object-cover"
             />

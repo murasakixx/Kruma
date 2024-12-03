@@ -88,14 +88,14 @@ const Home = () => {
             <h2 className="text-3xl font-bold mb-4 text-gray-800 dark:text-white">杨沐晨 Flok</h2>
             <div className="text-gray-700 dark:text-gray-300 leading-relaxed">
               <h3 className="text-xl font-semibold mb-2">About</h3>
-              <p>
+              <p>Hello everyone, my name is Thummarat, I'm a passionate developer who loves creating beautiful and functional web applications.
               </p>
             </div>
           </div>
           <div className="md:w-1/2">
             <img 
               src="../public/strong-kurama.png" 
-              alt="Kagura Artwork"
+              alt=""
               className="w-full h-auto rounded-lg transform hover:scale-105 transition-transform duration-300"
             />
           </div>

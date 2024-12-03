@@ -2,9 +2,9 @@ import React, { useState, useEffect } from "react";
 
 const Home = () => {
   const images = [
-    { src: "public/images/kurama.png", alt: "Murasakix profile" },
-    { src: "public/images/stand.png", alt: "Second image" },
-    { src: "public/images/stand2.png", alt: "Third image" },
+    { src: "/images/kurama.png", alt: "Murasakix profile" },
+    { src: "/images/stand.png", alt: "Second image" },
+    { src: "/images/stand2.png", alt: "Third image" },
   ];
 
   const [currentIndex, setCurrentIndex] = useState(0);
